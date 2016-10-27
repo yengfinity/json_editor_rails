@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A js library that is a JSON Schema Based Editor}
   spec.description   = %q{The library comes with available integration with CSS Frameworks such as bootstrap, foundation and jQueryUI.}
-  spec.homepage      = "https://rubygems.org"
+  spec.homepage      = "https://github.com/yengfinity/json_editor_rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
