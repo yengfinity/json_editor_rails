@@ -1,6 +1,6 @@
 # Json Editor Ruby on Rails integration gem
 
-All credits got to Jeremy [and his Javascript Library ](https://github.com/jdorn/json-editor)
+All credits go to Jeremy [and his Javascript Library ](https://github.com/jdorn/json-editor)
 
 
 ## Installation
